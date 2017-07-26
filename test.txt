@@ -1,2 +1,4 @@
 This is a TEST text
 This is version 0.0
+Creating a new branch is quick.
+This is version 0.1
